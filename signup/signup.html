@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/signup.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#home"><img src="../image/logo.jpg" width="50px" height="50px"
+                    class="d-inline-block align-top-left">
+                <span class="navbar-brand-title" style="color: rgba(12, 154, 197, 0.664)">AAA Smart Consults</span></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aroal-expand="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="active nav-link" href="../home.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../home.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../home.html">Expertise</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../home.html">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../home.html">Contact</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="search hear..." aria-label="search">
+                    <button class="btn btn-seconsary btn-light my-2 my-sm-0" type="submit"><i
+                            class="fa fa-search"></i>search</button>
+                </form>
+                <ul class="navbar-nav nav navbar-right-end">
+                    <li class="mr-2">
+                        <a class="nav-link" href="#">Signup<i class="fa fa-user-plus"></i></a>
+                    </li>
+                    <li class="mr-2">
+                        <a class="nav-link" href="#login">Login<i class="fa fa-user"></i></a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="form" id="signup">
+        <h2 class="head" style="background-color: aqua">Sign Up</h2>
+        <form class="form-container" method="post" action="aaa.php">
+            <div class="form-group">
+                <label for="exampleInputFirstName1">First Name</label>
+                <input type="text" name="firstname" value="" class="form-control" id="exampleInputFirstName1"
+                    placeholder="First Name" required>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputLastName1">Last Name</label>
+                <input type="text" name="lastname" value="" class="form-control" id="exampleInputLastName1"
+                    placeholder="Last Name" required>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputAdress1">Adress</label>
+                <input type="text" name="address" value="" class="form-control" id="exampleInputAdress1"
+                    placeholder="Adress" required>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputOccupation1">Occupation</label>
+                <input type="text" name="occupation" value="" class="form-control" id="exampleInputOccupation1"
+                    placeholder="Occupation" required>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPhoneNumber1">Phone Number</label>
+                <input type="text" name="address" value="" class="form-control" id="exampleInputPhoneNumber1"
+                    placeholder="Phone Number" required>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" name="email" value="" class="form-control" id="exampleInputEmail1"
+                    aria-describedby="emailHelp" placeholder="example@gmail" required>
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+                    else.</small>
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Password</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" required>
+            </div>
+            <div class="form-group form-check">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+                <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            </div>
+            <button type="submit" class="btn btn-primary">SignUp</button>
+        </form>
+    </div>

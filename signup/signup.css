@@ -1,0 +1,50 @@
+/* .navbar styling  */
+.navbar {
+    position: fixed ;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.collapse li ul {
+    position: absolute;
+    display: none;
+    width:inherit;
+    margin-left: -30px
+}
+
+.collapse li:hover ul {
+    display: block;
+}
+
+.collapse li ul li {
+    display: block;
+    text-decoration: none;    
+}
+
+li a:hover {
+    background-color: rgb(46, 82, 158);
+    color: white;
+}
+        /* .navbar styling ends */
+
+
+.form {    
+    margin-left: 20%;
+    margin-right: 20%;    
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);            
+}
+        
+.form-control {
+    width: 50%;
+}
+        
+.form-group {
+    align-content: center;
+}
+        

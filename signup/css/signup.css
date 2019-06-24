@@ -1,0 +1,29 @@
+/* .navbar styling  */
+.navbar {
+    position: fixed ;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.collapse li ul {
+    position: absolute;
+    display: none;
+    width:inherit;
+    margin-left: -30px
+}
+
+.collapse li:hover ul {
+    display: block;
+}
+
+.collapse li ul li {
+    display: block;
+    text-decoration: none;    
+}
+
+li a:hover {
+    background-color: rgb(46, 82, 158);
+    color: white;
+}
+        /* .navbar styling ends */

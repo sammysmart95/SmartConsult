@@ -1,0 +1,160 @@
+html {
+    background-color: rgb(118, 152, 202)
+}
+
+html body {
+    height: 100%;
+    width: 100%;
+    padding: 0%; 
+}
+ 
+/* .navbar styling  */
+.navbar {
+    position: fixed ;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.collapse li ul {
+    position: absolute;
+    display: none;
+    width:inherit;
+    margin-left: -30px
+}
+
+.collapse li:hover ul {
+    display: block;
+}
+
+.collapse li ul li {
+    display: block;
+    text-decoration: none;    
+}
+
+li a:hover {
+    background-color: rgb(46, 82, 158);
+    color: white;
+}
+        /* .navbar styling ends */ 
+        
+.carousel{
+     
+}        
+
+        /* header stylings */
+#container {
+    background: url("../image") no-repeat center center fixed;
+    background-size: cover;    
+}
+
+.content {
+    padding-top: 25%;  
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1); 
+}
+
+.call {
+    font-weight: 700px;
+    font-size: 80px;
+}
+
+@media only screen and (max-width: 600px) {
+    .call {
+        font-size: 30px;
+        font-weight: 200px;
+    }
+}
+
+.content hr {
+    width: 500px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2) 
+}
+
+.featured {
+    background-color: rgb(26, 23, 23);
+    color: white;
+    text-align: justify;
+}
+
+
+
+.featured i {
+    color: #18d26e;
+    font-size: 48px;
+    display: inline-block;
+    line-height: 1;
+}
+/* header stylings ends */
+
+/* about stylings */
+.ourselves {
+    background: url("../image/pro\ 1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    
+    text-align: center;
+}
+
+.ours {
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+    text-decoration: underline;   
+    font-family: cursive;
+    margin-bottom: 3%;
+}
+
+.text {
+    position: center;
+    padding: 50px, 50px, 50px, 50px;     
+    text-align: justify;
+    font: 70;    
+    margin: auto;
+}
+
+
+.nothing p {
+    color: aqua
+}
+
+
+
+
+
+.work {
+    background-image: url("../image/2.jpeg");
+    background-size: cover;
+    background-position: center;
+    opacity: 2;
+}
+
+
+
+.tim {
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.service p {
+    text-align: justify;
+}
+
+.sam{
+    color: white;
+    margin: auto;
+    text-align: center;
+    font: 40; 
+}
+
+.cont h2 {
+    text-align: center;
+}
+
+.cont h2 h5 {
+    color: white;
+}

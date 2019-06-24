@@ -1,0 +1,1048 @@
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <title>GELD CONCEPTS</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: BizPage
+    Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body><button type="button" id="mobile-nav-toggle"><i class="fa fa-bars"></i></button>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header" class="">
+    <div class="container-fluid">
+
+      <div id="logo" class="pull-left">
+        <h1><a href="#intro" class="scrollto">GELD CONCEPT</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
+      </div>
+
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+          <br>
+          <li class="menu-active menu-item-active"><a href="#intro">Home</a></li>
+          <li class=""><a href="#about">About Us</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"><li data-target="#introCarousel" data-slide-to="0" class=""></li><li data-target="#introCarousel" data-slide-to="1" class=""></li><li data-target="#introCarousel" data-slide-to="2" class="active"></li><li data-target="#introCarousel" data-slide-to="3" class=""></li><li data-target="#introCarousel" data-slide-to="4" class=""></li></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item" style="background-image: url(&quot;img/intro-carousel/john.jpg&quot;);">
+            
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>We are professional</h2>
+                <p>Thank you for seeing us right away! We are delighted to have you here and we assure you that you wont
+                  regret
+                  employing our service.
+                </p>
+                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(&quot;img/intro-carousel/john2.jpg&quot;);">
+            
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Our Services</h2>
+                <p>At GELDconcept, our services are limitless as far as Event planing, lighting and Decoration is
+                  concern.</p>
+                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item active" style="background-image: url(&quot;img/intro-carousel/john3.jpg&quot;);">
+            
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>About Us</h2>
+                <p>GELDconcept an Event planning, Lighting and Decoration expert that focuses on helping each client
+                  achieve their different individual desires when it comes to staging an event.</p>
+                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(&quot;img/intro-carousel/john4.jpg&quot;);">
+            
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Our Mission</h2>
+                <p> At GELDconcept our mission is to know the value of knowing our customers value by making
+                  event Big, Bright and Bold through powerful decoration and lighting concept.</p>
+                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(&quot;img/intro-carousel/john5.jpg&quot;);">
+            
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2>Our Vision</h2>
+                <p> Becoming a standard, and a pace setter in the world of Event lightings and decoration.</p>
+                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- #intro -->
+
+  <main id="main">
+
+    <!--==========================
+      Featured Services Section
+    ============================-->
+    <section id="featured-services">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-bookmarks-outline"></i>
+            <h4 class="title"><a href="">Key To Success</a></h4>
+            <p class="description">We take an individualized approach to the long-term satisfaction of each of our
+              client and
+              are dedicated
+              to providing our clients with enough information to make appropriate decisions
+              concerning the actualization of their desired occassion.</p>
+          </div>
+
+          <div class="col-lg-4 box box-bg">
+            <i class="ion-ios-stopwatch-outline"></i>
+            <h4 class="title"><a href="">Key TO Success</a></h4>
+            <p class="description">We treat our clients as if we're treating ourselves as we work to offer customers
+              the service that they desire and deserve.</p>
+          </div>
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-heart-outline"></i>
+            <h4 class="title"><a href="">Key To Success</a></h4>
+            <p class="description">We love and appreciate all of our clients.</p>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- #featured-services -->
+
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>About Us</h3>
+          <p>GELDconcept is an Event planning, Lighting and Decoration expert that focuses on helping each client
+            achieve
+            their different individual desires when it comes to staging an event.
+          </p>
+        </header>
+
+        <div class="row about-cols">
+
+          <div class="col-md-4 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-mission1.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Mission</a></h2>
+              <p>
+                At GELDconcept our mission is to know the value of knowing our customers value by making
+                event Big, Bright and Bold through powerful decoration and lighting concept
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-plan1.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Plan</a></h2>
+              <p>
+                Our goal is to achieve the vision of becoming a standard and pace setter in the world of Event Lightings
+                and Decoration as we
+                strive to please our clients by helping them attain the perfect event of their choice.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+            <div class="about-col">
+              <div class="img">
+                <img src="img/about-mission1.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Vision</a></h2>
+              <p>
+                Becoming a standard, and a pace setter in the world of Event lightings and decoration.
+              </p>
+            </div>
+          </div>
+        </div>
+
+
+        <script>
+          var myVideo = document.getElementById("video1");
+
+          function playPause(videoNum) {
+            console.log(videoNum)
+            let myVideo = videoNum === '1' ?
+              document.getElementById("video1") :
+              videoNum === '2' ?
+                document.getElementById("video2") :
+                document.getElementById("video3");
+            if (myVideo.paused)
+              myVideo.play();
+            else
+              myVideo.pause();
+          }
+
+        </script>
+
+        <header class="section-header">
+          <h3>Video Gallery</h3>
+          <div style="text-align: center">
+
+            <video onclick="playPause('3')" id="video3" width="80%" height="550">
+              <source src="./videos/vid6.mp4" type="video/mp4">
+              your browser does not support this video tag
+            </video>
+            <video onclick="playPause('2')" id="video2" width="80%" height="550">
+              <source src="./videos/vid5.mp4" type="video/mp4">
+              your browser does not support this video tag
+            </video>
+            <video onclick="playPause('1')" id="video1" width="80%" height="550">
+              <source src="./videos/vid1.mp4" type="video/mp4">
+              your browser does not support this video tag
+            </video>
+          </div>
+        </header>
+      </div>
+    </section><!-- #about -->
+
+    <!--==========================
+      Services Section
+    ============================-->
+    <section id="services">
+      <div class="container">
+
+        <header class="section-header wow fadeInUp" style="visibility: hidden; animation-name: none;">
+          <h3>Services</h3>
+          <p>At GELDconcept our services comes in three forms.</p>
+        </header>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s" style="visibility: hidden; animation-duration: 1.4s; animation-name: none;">
+            <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+            <h4 class="title"><a href="">Event Lighting</a></h4>
+            <p class="description">We carry out
+              </p><ul>
+                <li>Rentals of stage light</li>
+                <li>Rentals of stage light stand</li>
+                <li>Rentals of smoke machine</li>
+                <li>Rentals of Dancing stage</li>
+                <li>Firewall installation</li>
+                <li>Installation of stage light</li>
+                <li>Sales and supply of stage lights</li>
+              </ul>
+            <p></p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s" style="visibility: hidden; animation-duration: 1.4s; animation-name: none;">
+            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+            <h4 class="title"><a href="">Event Decoration</a></h4>
+            <p class="description">Our services here include;
+              </p><ul>
+                <li>Wedding Decoration</li>
+                <li>BirthDay Decoration</li>
+                <li>Burial Decoration</li>
+                <li>Anniversary Decoration</li>
+                <li>House warming party Decoration</li>
+                <li>Rentals of all Decoration Materials</li>
+              </ul>
+            <p></p>
+          </div>
+          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s" style="visibility: hidden; animation-duration: 1.4s; animation-name: none;">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title"><a href="">House Call</a></h4>
+            <p class="description"> Home care offers a full range of services from small scale event planing
+              for your kids birthday to major ceremonies.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #services -->
+
+    <!--==========================
+      Call To Action Section
+    ============================-->
+    <section id="call-to-action" class="wow fadeIn" style="visibility: hidden; animation-name: none;">
+      <div class="container text-center">
+        <h3>Call To Action</h3>
+        <p> GELDconcept is committed to embrace customers satisfaction as part of the solution to address the
+          changes and challenges of Staging an event. </p>
+
+      </div>
+    </section><!-- #call-to-action -->
+
+    <!--==========================
+      Skills Section
+    ============================-->
+    <section id="skills">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Our Skills</h3>
+          <p>Quality and relevant vocational education and training, or VET, can provide people,
+            and especially youth, with the knowledge, skills and competencies required for the jobs of today or
+            tomorrow.
+            The provision of relevant job skills can therefore be a robust means of empowering people to seize
+            employment opportunities or equip them for self-employment.</p>
+        </header>
+
+        <div class="skills-content">
+
+          <div class="progress">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+              <span class="skill">Events Lightings <i class="val">100%</i></span>
+            </div>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+              <span class="skill"> Events Decoration <i class="val">100%</i></span>
+            </div>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+              <span class="skill">Rental Services <i class="val">95%</i></span>
+            </div>
+          </div>
+
+          <div class="progress">
+            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+              <span class="skill">Home Care Services <i class="val">90%</i></span>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!--==========================
+      Facts Section
+    ============================-->
+    <section id="facts" class="wow fadeIn" style="visibility: hidden; animation-name: none;">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Facts</h3>
+          <p>Do you know that the style with which you stage your event tells more about your personality?</p>
+        </header>
+
+        <div class="row counters">
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">100</span>
+            <p>Clients</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">65</span>
+            <p>Projects</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">1,364</span>
+            <p>Hours Of Support</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-toggle="counter-up">10</span>
+            <p>Hard Workers</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #facts -->
+
+    <!--==========================
+      Portfolio Section
+    ============================-->
+    <section id="portfolio" class="section-bg">
+      <div class="container">
+
+        <header class="section-header">
+          <h3 class="section-title">Photo Gallary</h3>
+        </header>
+
+        <div class="row">
+          <div class="col-lg-12">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All Photos</li>
+              <li data-filter=".filter-app">Indoors</li>
+              <li data-filter=".filter-card">Lightings</li>
+              <li data-filter=".filter-web">Outdoors</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" style="position: relative; height: 1080px;">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" style="position: absolute; left: 0px; top: 0px; visibility: hidden; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/foto1.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/foto1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Indoor</a></h4>
+                <p>Event</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s" style="position: absolute; left: 319px; top: 0px; visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/outdoor1.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/outdoor1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Outdoor</a></h4>
+                <p>Event</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s" style="position: absolute; left: 639px; top: 0px; visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/foto2.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/foto2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Indoor</a></h4>
+                <p>Event</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" style="position: absolute; left: 0px; top: 360px; visibility: hidden; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/lightings2.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/lightings2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Lightings</a></h4>
+                <p>Photos</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s" style="position: absolute; left: 319px; top: 360px; visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/outdoor2.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/outdoor2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Outdoor</a></h4>
+                <p>Event</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s" style="position: absolute; left: 639px; top: 360px; visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/foto3.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/foto3.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Indoor</a></h4>
+                <p>Event</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" style="position: absolute; left: 0px; top: 720px; visibility: hidden; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/lightings1.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/lightings1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Lightings</a></h4>
+                <p>Photos</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s" style="position: absolute; left: 319px; top: 720px; visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/lightings2.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/lightings2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Lightings</a></h4>
+                <p>Photos</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s" style="position: absolute; left: 639px; top: 720px; visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="img/portfolio/outdoor3.jpg" class="img-fluid" alt="">
+                <a href="img/portfolio/outdoor3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="#">Outdoors</a></h4>
+                <p>Events</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #portfolio -->
+
+    <!--==========================
+      Clients Section
+    ============================-->
+    <section id="clients" class="wow fadeInUp" style="visibility: hidden; animation-name: none;">
+      <div class="container">
+      </div>
+    </section><!-- #clients -->
+
+    <!--==========================
+      Clients Section
+    ============================-->
+    <section id="testimonials" class="section-bg wow fadeInUp" style="visibility: hidden; animation-name: none;">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>Testimonials</h3>
+        </header>
+
+        <div class="owl-carousel testimonials-carousel owl-loaded owl-drag">
+
+          
+
+          
+
+          
+
+          
+
+        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2790px, 0px, 0px); transition: all 0s ease 0s; width: 7440px;"><div class="owl-item cloned" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/team-3.jpg" class="testimonial-img" alt="">
+            <h3>Otor John</h3>
+            <h4>Web Consultant</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item cloned" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+            <h3>Victor Okoliko</h3>
+            <h4>Customer Service</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+              A dedicated staff with the sole aim of helping clients achieve their ultimate desire when it comes to
+              holding events.
+              from the smallest in house party to largest outdoor occassion.
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+            <h3>Joseph Lebo Nkanu</h3>
+            <h4>CEO &amp; Founder</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+              A man of standard, who has been in the business of creating events that beats the imagination of clients.
+              He is fully committed to achieving the desires of his clients.
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item active" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+            <h3>Miss. Alor Victoria</h3>
+            <h4>Manager</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/team-3.jpg" class="testimonial-img" alt="">
+            <h3>Otor John</h3>
+            <h4>Web Consultant</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
+            <h3>Victor Okoliko</h3>
+            <h4>Customer Service</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+              A dedicated staff with the sole aim of helping clients achieve their ultimate desire when it comes to
+              holding events.
+              from the smallest in house party to largest outdoor occassion.
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item cloned" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
+            <h3>Joseph Lebo Nkanu</h3>
+            <h4>CEO &amp; Founder</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+              A man of standard, who has been in the business of creating events that beats the imagination of clients.
+              He is fully committed to achieving the desires of his clients.
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div><div class="owl-item cloned" style="width: 930px;"><div class="testimonial-item">
+            <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
+            <h3>Miss. Alor Victoria</h3>
+            <h4>Manager</h4>
+            <p>
+              <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
+
+              <img src="img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+
+      </div>
+    </section><!-- #testimonials -->
+
+    <!--==========================
+      Team Section
+    ============================-->
+    <section id="team">
+      <div class="container">
+        <div class="section-header wow fadeInUp" style="visibility: hidden; animation-name: none;">
+          <h3>Team</h3>
+          <p>With effective team, our organization is golden.
+        </p></div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" style="visibility: hidden; animation-name: none;">
+            <div class="member">
+              <img src="img/team-1.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Joseph Lebo Nkanu</h4>
+                  <span>CEO</span>
+                  <div class="social">
+                    <a href="www.facebook.com/Joseph.lebo1"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-2.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Miss. Alor Victoria</h4>
+                  <span>Manager</span>
+                  <div class="social">
+                    <a href="www.facebook.com/victoria.daniel.12914"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-3.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>John Otor</h4>
+                  <span>Web Consultant</span>
+                  <div class="social">
+                    <a href="www.facebook.com/john.otor3"><i class="fa fa-facebook"></i></a>
+                    <a href="www.instagram.com/ogenyi21"><i class="fa fa-instagram"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-4.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Victor Okoliko</h4>
+                  <span>Staff</span>
+                  <div class="social">
+                    <a href="www.facebook.com/victor.Okoliko.9"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-5.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Lebo Emmanuel</h4>
+                  <span>General Secretary</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href="www.facebook.com/emmzchords"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-6.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>David Sunday</h4>
+                  <span>Staff</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href="www.facebook.com/Davidialer"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-7.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Kingsley John</h4>
+                  <span>Staff</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-8.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Funke</h4>
+                  <span>Staff</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+            <div class="member">
+              <img src="img/team-9.jpg" class="img-fluid pic" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Godwin Emmanuel</h4>
+                  <span>Marketing Manager</span>
+                  <div class="social">
+                    <a href="www.facebook.com/Godwin1822"><i class="fa fa-facebook"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- #team -->
+
+    <!--==========================
+      Contact Section
+    ============================-->
+    <section id="contact" class="section-bg wow fadeInUp" style="visibility: hidden; animation-name: none;">
+      <div class="container">
+
+        <div class="section-header">
+          <h3>Contact Us</h3>
+          <p>For anything Event, we are at your service:</p>
+        </div>
+
+        <div class="row contact-info">
+
+          <div class="col-md-4">
+            <div class="contact-address">
+              <i class="ion-ios-location-outline"></i>
+              <h3>Address</h3>
+              <address>GoldenEventLighteningAndDecoration, Gwagwalada, Abuja</address>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-phone">
+              <i class="ion-ios-telephone-outline"></i>
+              <h3>Phone Number</h3>
+              <p><a href="tel:+234(0)8132806889">+234(0)8132806889</a>
+                <a href="tel:+234(0)8098989133">+234(0)8098989133</a>
+                <a href="tel:+234(0)8105471171">+234(0)8105471171</a>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-email">
+              <i class="ion-ios-email-outline"></i>
+              <h3>Email</h3>
+              <p><a href="mailto:goldenjoepraise@gmail.com">goldenjoepraise@gmail.com</a></p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="form">
+          <div id="sendmessage">Your message has been sent. Thank you!</div>
+          <div id="errormessage"></div>
+          <form action="" method="post" role="form" class="contactForm">
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter your name">
+                <div class="validation"></div>
+              </div>
+              <div class="form-group col-md-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email address">
+                <div class="validation"></div>
+              </div>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 characters of subject">
+              <div class="validation"></div>
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+              <div class="validation"></div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+          </form>
+        </div>
+
+      </div>
+    </section><!-- #contact -->
+
+  </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h3>GELDconcept</h3>
+            <p>Quality and relevant vocational education and training, or VET, can provide people,
+              and especially youth, with the knowledge, skills and competencies required for the jobs of today or
+              tomorrow.
+              The provision of relevant job skills can therefore be a robust means of empowering people to seize
+              employment opportunities or equip them for self-employment.</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#about">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#services">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#portfolio">Portfolio</a></li>
+
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              GoldenEventLighteningAndDecoration, <br>
+              Gwagwalada,<br>
+              Abuja <br>
+              <strong>Phone:</strong> +234(0)8132806889, +234(0)8098989133, +234(0)8105471171<br>
+              <strong>Email:</strong> goldenjoepraise@gmail.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="www.facebook.com/Joseph.lebo1" class="facebook"><i class="fa fa-facebook"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Subscribe to our newsletter so you do not miss out on our exciting services.
+              input your email address in the space provided.
+            </p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        © Copyright <strong>GELDconcept</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
+        -->
+        Designed by <a href="https://github.com/Ogenyi25">OGENYI</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top" style="display: none;"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script><nav id="mobile-nav">
+        <ul class="" style="touch-action: pan-y;" id="">
+          <br>
+          <li class="menu-active menu-item-active"><a href="#intro">Home</a></li>
+          <li class=""><a href="#about">About Us</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav><div id="mobile-body-overly"></div>
+
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
